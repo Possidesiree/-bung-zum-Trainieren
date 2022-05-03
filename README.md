@@ -5,5 +5,6 @@
 3. Fügen Sie die Objekte einer Liste zu.
 4. Geben Sie die Inhalte der Liste (jeweils Namen und Straße) aus.
 5. Ändern Sie die Straße eines Objektes.
-6. Fügen Sie die _selben_ Objekte in eine Map mit einer fortlaufenden ID "X01", "X02" ... hinzu und lassen Sie die ID Namen und Straße ebenfalls ausgeben.
-7. Geben Sie die Inhalte der oben erstellten Liste (jeweils Namen und Straße) aus. Welche Straße wird für das geänderte Objekt ausgegeben?
+6. Fügen Sie die _selben_ Objekte in eine Map mit einer fortlaufenden ID "X01", "X02" ... hinzu.
+7. Lassen Sie sich die ID Namen und Straße ausgeben.
+8. Geben Sie die Inhalte der oben erstellten Liste (jeweils Namen und Straße) aus. Welche Straße wird für das geänderte Objekt ausgegeben?
