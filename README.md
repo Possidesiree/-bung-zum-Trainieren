@@ -8,3 +8,5 @@
 6. Fügen Sie die _selben_ Objekte in eine Map mit einer fortlaufenden ID "X01", "X02" ... hinzu.
 7. Lassen Sie sich die ID Namen und Straße ausgeben.
 8. Geben Sie die Inhalte der oben erstellten Liste (jeweils Namen und Straße) aus. Welche Straße wird für das geänderte Objekt ausgegeben?
+### Hinweise
+Für die Ausgaben benötigen Sie eine for-Schleife, im Fall der Map muss zusätzlich ein _EntrySet_ genutzt werden.
